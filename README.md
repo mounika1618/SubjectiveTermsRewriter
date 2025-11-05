@@ -5,6 +5,7 @@ Solution:
 A precompiled vague-lexicon was used to detect vague terms in sentences. The flagged sentence was prompted to gemini-ai for rewriting the sentence into precise, quantifiable sentence.
 
 Instructions for running the code:
+
 1️. Prerequisites
 You need:
 A Google account (for Colab and Drive access)
