@@ -6,8 +6,7 @@ A precompiled vague-lexicon was used to detect vague terms in sentences. The fla
 
 Instructions for running the code:
 
-**1️. Prerequisites
-**
+**1️. Prerequisites**
 You need:
 A Google account (for Colab and Drive access)
 Access to Google Colab
